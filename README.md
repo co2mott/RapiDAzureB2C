@@ -18,7 +18,7 @@ Stap 8: Ga naar je nieuw aangemaakte registratie en klik vervolgens op verificat
 
 Stap 9: Scroll naar beneden totdat je bij de Geavanceerde instellingen komt en zet het schuifje van "Openbare clientstromen toestaan" op Ja. Dit zorgt ervoor dat je daadwerkelijk kan inloggen op je applicatie.
 
-Stap 10: Vervolgens ben ik naar https://learn.microsoft.com/nl-nl/azure/active-directory/develop/tutorial-v2-windows-uwp gegaan en heb hier eigenlijk alle stappen gevolgd die er stonden.
+Stap 10: Vervolgens ben ik naar https://learn.microsoft.com/nl-nl/azure/active-directory/develop/tutorial-v2-windows-desktop gegaan en heb hier eigenlijk alle stappen gevolgd die er stonden.
 
 Stap 11: Omdat ik een school account heb kan ik alleen gebruikers de rol eigenaar geven. Maar als je een Azure AD P1 of P2 account hebt kan je gebruikers bijvoorbeeld de Task.Login geven zodat ze alleen kunnen inloggen.
 
